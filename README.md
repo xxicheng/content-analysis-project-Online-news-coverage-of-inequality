@@ -1,4 +1,4 @@
-# content-analysis-project - Online news coverage of inequality
+# Online news coverage of inequality
 
 # Goals: 
 
