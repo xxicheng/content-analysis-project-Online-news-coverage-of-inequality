@@ -8,7 +8,7 @@ This is a course project for SOCI 40133 Computational Content Analysis. The goal
 
 LDA topic modeling: to see if the online news coverage trend given to income inequality from 2015 to 2020 
     
-Word embeddings: to describe the general world view of the online news. After that, I will build several dimensions and project the news onto these dimensions to see if there's any systematic difference (or similarity) in terms of the causes and solutions.
+Word embeddings: to describe the general world view of the online news by checking the closeness among the words. After that, I will build several dimensions and project the news onto these dimensions to see if there's any systematic difference (or similarity) in terms of the causes and solutions.
 
 Network analysis:  Considering news itself can be biased, I am going to use network analysis to see the differences of news topics among sources. 
 
