@@ -10,6 +10,7 @@ LDA topic modeling: to see if the online news coverage trend given to income ine
     
 Word embeddings: to describe the general world view of the online news. After that, I will build several dimensions and project the news onto these dimensions to see if there's any systematic difference (or similarity) in terms of the causes and solutions.
 
+Word Embedding: to see the closeness among the words in different time period and under different topics.
 Network analysis:  Considering news itself can be biased, I am going to use network analysis to see the differences of news topics among sources. 
 
 # Data Source:
