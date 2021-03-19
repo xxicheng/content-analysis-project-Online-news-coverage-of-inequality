@@ -2,7 +2,7 @@
 
 # Goals: 
 
-This is a course project for SOCI 40133 Computational Content Analysis. The goal is to analyze online news coverage of inequality worldwide. We employed computational methods including the LDA topic modeling, word embeddings, and word and phrase frequency analysis to all news containing "inequality" in the News on the Web (NOW) corpus to see if the coverage given to income inequality from 2010 to 2019 reflects the empirical rise in inequality during the same period. We are also interested in how online media frames income inequality, like the causes and solutions. 
+This is a course project for SOCI 40133 Computational Content Analysis. The goal is to analyze online English news coverage of inequality. We employed computational methods including the LDA topic modeling, word embeddings, and word and phrase frequency analysis to all news containing "inequality" in the News on the Web (NOW) corpus to see if the coverage given to income inequality from 2010 to 2019 reflects the empirical rise in inequality during the same period. We are also interested in how online media frames income inequality, like the causes and solutions. 
 
 # Methods: 
 
