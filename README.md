@@ -10,7 +10,7 @@ LDA topic modeling: to see if the online news coverage trend given to income ine
     
 Word embeddings: to describe the general world view of the online news by checking the closeness among the words. After that, I will build several dimensions and project the news onto these dimensions to see if there's any systematic difference (or similarity) in terms of the causes and solutions.
 
-Word and phrase frequency analysis: 
+Word and phrase frequency analysis: we did some word cloud to capture the change of salient words during 2010-2019. 
 
 # Data Source:
 
